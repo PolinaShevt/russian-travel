@@ -3,8 +3,9 @@
     font-weight: 400;
     font-size: 18px;
     left: 1.22;
+    width:fit-content;
 }
 .place__link:hover{
-    opacity: 0.7;
+    opacity: 0.8;
     transition: 0.6s;
 }

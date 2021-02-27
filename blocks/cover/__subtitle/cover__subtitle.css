@@ -4,6 +4,7 @@
     line-height: 1.2;
     max-width: 360px;
     text-align: center;
+    margin-block-start: 0;
 }
 @media screen and (max-width: 767px){
     .cover__subtitle{

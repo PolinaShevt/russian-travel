@@ -1,9 +1,15 @@
 .place__description{
-    display: grid;
-    gap: 26px;
+    display: flex;
+    flex-direction: column;
 }
+
 @media screen and (max-width: 1023px){
     .place__description{
         gap: 25px;
+    }
+}
+@media screen and (max-width: 767px){
+    .place__description{
+        margin: 0 16px 0 16px; 
     }
 }

@@ -2,6 +2,7 @@
     background-image: url(./../../../images/cover-trains.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     min-height: 740px;
     color: #ffffff;
     text-decoration: none;
@@ -15,8 +16,8 @@
 }
 .cover__link:before{
     content: "";
-    background: black;
-    opacity: 0.4;
+    background: #2A2C2F;
+    opacity: 0.3;
     position: absolute;
     top:0;
     bottom: 0;

@@ -1,0 +1,7 @@
+.header__lang-link_disabled{
+    text-decoration: none;
+}
+.header__lang-link_disabled:hover{
+    opacity: 0.8;
+    transition: 0.6s;
+}
